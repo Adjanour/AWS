@@ -1,6 +1,6 @@
 # Web App with Aurora MySQL Connection
 
-This repository contains the step-by-step guide, screenshots, and documentation on how to connect a web application to an **Amazon Aurora MySQL** database using **EC2**. 
+This repository contains the screenshots, and documentation on how to connect a web application to an **Amazon Aurora MySQL** database using **EC2**. 
 
 ## Project Overview
 
